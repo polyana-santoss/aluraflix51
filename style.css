@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+}
+h1{
+    color: darkblue;
+    font-size: 40px;
+}
+p{
+    font-size: 25px;
+}
+header{
+    border-bottom:(rosybrown);
+    margin: 2px;
+    padding: 10px;
+    color: darkmagenta;
+}
