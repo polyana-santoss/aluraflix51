@@ -17,3 +17,15 @@ header{
     padding: 10px;
     color: darkmagenta;
 }
+.chamada{
+    background-color: chartreuse;
+    padding: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 8%;
+}
+img{
+    haight: 200px;
+}
